@@ -7,4 +7,4 @@ fits the structure of the temperature statistics program. From the sorted output
 for both variable types, the memory buffer transfer time is recorded and shown in the console output, and the total int and float operation runtimes are recorded.
 The total program runtime is also recorded and shown.
 ## Results
-#[result image](https://github.com/plotep/OpenCL-Parallel-Programming/blob/main/Images/Results.png)
+#[result image](https://github.com/plotep/OpenCL-Parallel-Programming/blob/main/Images/Results.png?raw=true)
